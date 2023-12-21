@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @not-ekalabya
+- 👀 I’m interested in AI and web development
+- 🌱 I’m currently learning MERN stack and machine learning
+- 💞️ I’m looking to collaborate on Alcadamia - the AI course maker
+- 📫 How to reach me - X, gitHub
