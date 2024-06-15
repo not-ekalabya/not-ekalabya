@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @not-ekalabya
+- 🧐 Have worked a lot with Next.JS ( Favorite for web-dev )
 - 👀 I’m interested in AI and web development
-- 🌱 I’m currently learning MERN stack and machine learning
+- 🌱 I’m currently learning Deep Learning stack and machine learning
 - 💞️ I’m looking to collaborate on a few AI based projects
 - 📫 How to reach me - X, gitHub
