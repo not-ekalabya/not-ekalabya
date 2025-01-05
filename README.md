@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @not-ekalabya
+- 👀 I’m interested in Deep Learning and Embedded Systems
+- 🌱 I’m currently making mind controlled bionic arms
+- 💞️ I’m looking to collaborate on a few next-gen AI based projects
 - 🧐 Have worked a lot with Next.JS ( Favorite for web-dev )
-- 👀 I’m interested in AI and web development
-- 🌱 I’m currently learning Deep Learning stack and machine learning
-- 💞️ I’m looking to collaborate on a few AI based projects
 - 📫 How to reach me - X, gitHub
