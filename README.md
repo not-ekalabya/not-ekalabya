@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @not-ekalabya
-- 👀 I’m interested in Deep Learning and Embedded Systems
-- 💞️ I’m looking to collaborate on a few next-gen AI based projects
-- 🧐 Have worked a lot with Next.JS ( Favorite for web-dev )
-- 📫 How to reach me - X, gitHub
+### I vibe code.
+Programming is about logic, not writing code.
